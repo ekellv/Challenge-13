@@ -9,8 +9,11 @@ This application uses the Sequelize ORM and MySQL to create a backend for an eco
 ![Github license](http://img.shields.io/badge/License-MIT-yellow.svg)
 
 [A demonstration of the MySQL setup can be found here.](https://drive.google.com/file/d/1647sSZJdHbEbQhREy9MWFfy65cjy3iwO/view)
+
 [A demonstration of the Category route and model functionality can be found here.](https://drive.google.com/file/d/1unzixS0UkUCQzANH03sPxgFj21CAhyPh/view)
+
 [A demonstration of the Product route and model functionality can be found here.](https://drive.google.com/file/d/1232GVEkNs4hXgM_MKHTwtj3020BP1tmA/view)
+
 [A demonstration of the Tag route and model functionality can be found here.](https://drive.google.com/file/d/1Jj-ZHRsUHEgSC-NSOwfyUT9JPJ-NoE0y/view)
 
 ## Contents
@@ -32,18 +35,15 @@ Using a working Express.js API configured to use Sequelize, the application inte
 
 ## User Story
 
-``
-AS A manager at an internet retail company
+``AS A manager at an internet retail company
 
 I WANT a back end for my e-commerce website that uses the latest technologies
 
-SO THAT my company can compete with other e-commerce companies
-``
+SO THAT my company can compete with other e-commerce companies``
 
 ## Acceptance Criteria 
 
-``
-GIVEN a functional Express.js API
+``GIVEN a functional Express.js API
 
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 
@@ -63,12 +63,11 @@ THEN the data for each of these routes is displayed in a formatted JSON
 
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 
-THEN I am able to successfully create, update, and delete data in my database
-``
+THEN I am able to successfully create, update, and delete data in my database``
 
 ## Visuals: 
 
-
+![E-Commerce-Backend-Screenshot](https://user-images.githubusercontent.com/103372188/186549049-0ff6831c-8ade-4f58-aa8c-d9a12ec5b3f7.png)
 
 ## Technologies
 
