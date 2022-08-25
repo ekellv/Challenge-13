@@ -8,7 +8,10 @@ This application uses the Sequelize ORM and MySQL to create a backend for an eco
 
 ![Github license](http://img.shields.io/badge/License-MIT-yellow.svg)
 
-[A version of the deployed website can be viewed here.](https://github.com/ekellv/E-Commerce-Backend)
+[A demonstration of the MySQL setup can be found here.](https://drive.google.com/file/d/1647sSZJdHbEbQhREy9MWFfy65cjy3iwO/view)
+[A demonstration of the Category route and model functionality can be found here.](https://drive.google.com/file/d/1unzixS0UkUCQzANH03sPxgFj21CAhyPh/view)
+[A demonstration of the Product route and model functionality can be found here.](https://drive.google.com/file/d/1232GVEkNs4hXgM_MKHTwtj3020BP1tmA/view)
+[A demonstration of the Tag route and model functionality can be found here.](https://drive.google.com/file/d/1Jj-ZHRsUHEgSC-NSOwfyUT9JPJ-NoE0y/view)
 
 ## Contents
 1. [About](#about)
